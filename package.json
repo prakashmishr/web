@@ -1,0 +1,16 @@
+{
+  "name": "my-portfolio-web",
+  "version": "1.0.0",
+  "description": "this is prakash's portfolio web",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PrakashMishra",
+  "license": "ISC",
+  "dependencies": {
+    "animejs": "^3.2.1",
+    "express": "^4.17.1",
+    "typed.js": "^2.0.12"
+  }
+}
